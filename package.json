@@ -1,0 +1,17 @@
+{
+  "name": "reactplayer",
+  "version": "1.0.0",
+  "description": "just music player by react",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "music",
+    "player"
+  ],
+  "author": "Sheng",
+  "license": "ISC"
+}
